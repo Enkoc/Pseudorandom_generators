@@ -1,0 +1,7 @@
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.exe.config
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.exe
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.pdb
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.csprojResolveAssemblyReference.cache
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.exe
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.pdb
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

@@ -1,0 +1,10 @@
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.exe.config
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.exe
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.pdb
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.exe
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.pdb
+D:\projects\BBS_bytes_generator\BBS_bytes_generator\obj\Debug\Generators.csprojResolveAssemblyReference.cache
+D:\GitHub\Pseudorandom_generators\Pseudorandom_generators\BBS_bytes_generator\bin\Debug\BBS_bytes_generator.exe.config
+D:\GitHub\Pseudorandom_generators\Pseudorandom_generators\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.exe
+D:\GitHub\Pseudorandom_generators\Pseudorandom_generators\BBS_bytes_generator\obj\Debug\BBS_bytes_generator.pdb
